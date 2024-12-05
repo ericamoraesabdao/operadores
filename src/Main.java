@@ -3,6 +3,5 @@ public class Main {
         int numero = 10;
         numero += 5; //
         System.out.println(numero);
-
     }
 }
